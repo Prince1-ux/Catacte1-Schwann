@@ -1,0 +1,10 @@
+1. Project Title
+  Colorful Circle Patterns Using Python Turtle
+2. Purpose of the Project
+  This project creates colorful circular patterns using Python’s Turtle graphics.
+3. How the Program Works and How to Run It
+  The program sets up a black background and uses a loop to draw overlapping circles in multiple colors. 
+  The turtle iterates through different colors while drawing circles and rotating slightly, creating a mesmerizing spiral effect.
+To run the program, install Python and the turtle module if needed. Save the script and run it using python script_name.py.
+  A Turtle window will display the colorful circular pattern, which can be customized by modifying angles, colors, or rotation steps.
+
